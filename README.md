@@ -1,2 +1,2 @@
 # learn-github
-for lernning
+for learning
